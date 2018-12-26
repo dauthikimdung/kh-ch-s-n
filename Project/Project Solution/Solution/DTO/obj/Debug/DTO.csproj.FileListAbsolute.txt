@@ -1,0 +1,45 @@
+C:\Users\User\Downloads\QuanLiKhachSan\DTO\bin\Debug\DTO.dll
+C:\Users\User\Downloads\QuanLiKhachSan\DTO\bin\Debug\DTO.pdb
+C:\Users\User\Downloads\QuanLiKhachSan\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\QuanLiKhachSan\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\QuanLiKhachSan\DTO\obj\Debug\DTO.dll
+C:\Users\User\Downloads\QuanLiKhachSan\DTO\obj\Debug\DTO.pdb
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\DTO\bin\Debug\DTO.dll
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\DTO\bin\Debug\DTO.pdb
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\DTO\obj\Debug\DTO.dll
+C:\Users\Tee Max\Desktop\World Cup 2018\QuanLiKhachSan\DTO\obj\Debug\DTO.pdb
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\bin\Debug\DTO.dll
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\bin\Debug\DTO.pdb
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\obj\Debug\DTO.dll
+C:\Users\User\Downloads\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\obj\Debug\DTO.pdb
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\bin\Debug\DTO.dll
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\bin\Debug\DTO.pdb
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\obj\Debug\DTO.dll
+C:\Users\Tee Max\Desktop\QUANLYKHACHSAN_G4_TEAM-master\SourcesCode\DTO\obj\Debug\DTO.pdb
+G:\GitHub\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\bin\Debug\DTO.dll
+G:\GitHub\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\bin\Debug\DTO.pdb
+G:\GitHub\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+G:\GitHub\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\GitHub\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.dll
+G:\GitHub\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.pdb
+G:\TT Nhóm\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\bin\Debug\DTO.dll
+G:\TT Nhóm\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\bin\Debug\DTO.pdb
+G:\TT Nhóm\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\TT Nhóm\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.dll
+G:\TT Nhóm\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.pdb
+G:\TT Nhóm\Mau\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\bin\Debug\DTO.dll
+G:\TT Nhóm\Mau\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\bin\Debug\DTO.pdb
+G:\TT Nhóm\Mau\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+G:\TT Nhóm\Mau\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\TT Nhóm\Mau\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.dll
+G:\TT Nhóm\Mau\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.pdb
+E:\Year 4\Ky 1\ôn thi\cau hoi _ dap an _cnpm\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\bin\Debug\DTO.dll
+E:\Year 4\Ky 1\ôn thi\cau hoi _ dap an _cnpm\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\bin\Debug\DTO.pdb
+E:\Year 4\Ky 1\ôn thi\cau hoi _ dap an _cnpm\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.dll
+E:\Year 4\Ky 1\ôn thi\cau hoi _ dap an _cnpm\QUANLYKHACHSAN_G4_TEAM\Project\Project Solution\Solution\DTO\obj\Debug\DTO.pdb
