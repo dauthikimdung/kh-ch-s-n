@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "FutureBook";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var book= (List<Model.EF.Book>)ViewBag.Book;
+  
+   
+}
+
+<div class="wrap">
+    <div class="content">
+        @{Html.RenderAction("Category", "Category"); }
+
+        <div class="content-grids">
+            <h4> Tác giả: <span style="color:#347091;">@ViewBag.NameAuthor</span></h4>
+   
+            <div class="section group">
+                @foreach (var item in book)
+                {
+                    var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+                    <div class="grid_1_of_4 images_1_of_4 products-info" style="width:230px;height:500px">
+                        <img src="@item.Image">
+                        <div class="Namebook">
+                            <a href="@url">@item.Name</a>
+                        </div>
+
+                        <div class="Tac-Gia" style="text-align:center;"><a href="/Tac-gia/@item.Author">@item.Author</a></div>
+                        <div class="Prices" style="text-align:center">@item.Price.Value.ToString("N0") ₫</div>
+                        <div class="rootPrinces" style="text-align:center">@item.PromotionPrice.Value.ToString("N0") ₫</div>
+                        <ul>
+                            <li><a class="cart" href="/them-gio-hang?BookID=@item.ID&quantity=1"> </a></li>
+
+
+                        </ul>
+                    </div>
+
+                }
+
+
+            </div>
+
+
+        </div>
+
+
+
+
+
+
+    </div>
+    <div class="clear"> </div>
+</div>
+
+

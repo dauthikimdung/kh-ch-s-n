@@ -1,0 +1,35 @@
+﻿.Prices {
+    color: #444444;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.rootPrinces {
+    color: #999999;
+    font-size: 11px;
+    text-decoration: line-through;
+}
+.grid_1_of_4.images_1_of_4.products-info img
+{
+    width: 219px;
+    height: 300px;
+}
+.grid_1_of_4.images_1_of_4.products-info .Namebook {
+    height: 50px;
+    overflow: hidden;
+}
+.grid_1_of_4.images_1_of_4.products-info .Tac-Gia {
+    height: 20px;
+}
+.grid_1_of_4.images_1_of_4.products-info .Prices {
+    height: 20px;
+}
+.grid_1_of_4.images_1_of_4.products-info .rootPrinces {
+    height: 20px;
+}
+
+
+.grid_1_of_4.images_1_of_4.products-info {
+    width: 230px;
+    height: 500px;
+}

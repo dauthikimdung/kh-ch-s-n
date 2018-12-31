@@ -1,0 +1,61 @@
+﻿
+
+@{
+    ViewBag.Title = "The Loai";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var Category = (Model.EF.BookCategory)ViewBag.Category;
+    var CategoryChild = (List<Model.EF.Book>)ViewBag.Categorychild;
+ 
+}
+<div class="wrap">
+    <div class="content">
+        @{Html.RenderAction("Category", "Category"); }
+
+        <div class="content-grids">
+            <h4>@Category.Name</h4>
+            <div class="section group">
+                @foreach (var item in CategoryChild)
+                {
+
+
+                    var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+                    int sale = (int)((1 - item.Price / item.PromotionPrice) * 100);
+                    <div class="grid_1_of_4 images_1_of_4 products-info" style="width:230px;height:500px">
+
+                        <img src="@item.Image" style="width:219px;height:300px">
+                        <div class="Namebook">
+                            <a href="@url">@item.Name</a>
+                        </div>
+
+                        <div class="Tac-Gia" style="text-align:center;"><a href="/Tac-gia/@item.Author">@item.Author</a></div>
+                        <div class="Prices" style="text-align:center">@item.Price.Value.ToString("N0") ₫</div>
+                        <div class="rootPrinces" style="text-align:center">@item.PromotionPrice.Value.ToString("N0") ₫</div>
+                        <ul>
+                            <li><a class="cart" href="/them-gio-hang?BookID=@item.ID&quantity=1"> </a></li>
+
+
+                        </ul>
+                    </div>
+
+                }
+
+            
+
+
+            </div>
+
+
+
+        </div>
+
+
+
+
+
+
+    </div>
+    <div class="clear"> </div>
+</div>
+
+

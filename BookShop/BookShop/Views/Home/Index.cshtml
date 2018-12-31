@@ -1,0 +1,135 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var newbook = (List<Model.EF.Book>)ViewBag.NewBook;
+    var bookFuture = (List<Model.EF.Book>)ViewBag.BookFuture;
+    var bookView = (List<Model.EF.Book>)ViewBag.BookView;
+}
+
+<div class="wrap">
+    @{Html.RenderAction("Slides", "Home"); }
+
+    <!--End-image-slider---->
+</div>
+<div class="clear"> </div>
+<div class="wrap">
+    <div class="content">
+        @{Html.RenderAction("Category", "Category"); }
+
+        <div class="content-grids">
+            <h4>Sách mới</h4>
+            <div class="section group">
+                <div id="spmoi" class="owl-carousel">
+                    @foreach (var item in newbook)
+                    { 
+                        var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+                        int sale = (int)((1 - item.Price / item.PromotionPrice) * 100);
+                        <div class="grid_1_of_4 images_1_of_4 products-info" style="width:230px;height:500px">
+                         <img src="@item.Image">
+                            
+                            <div class="Namebook">
+                                <a href="@url">@item.Name</a>
+                            </div>
+
+                            <div class="Tac-Gia" style="text-align:center;"><a href="/Tac-gia/@item.Author">@item.Author</a></div>
+                            <div class="Prices" style="text-align:center">@item.Price.Value.ToString("N0") ₫</div>
+                            <div class="rootPrinces" style="text-align:center">@item.PromotionPrice.Value.ToString("N0") ₫</div>
+                            <ul>
+                                <li><a class="cart" href="/them-gio-hang?BookID=@item.ID&quantity=1"> </a></li>
+
+                                
+                            </ul>
+                        </div>
+
+                    }
+
+                </div>
+              
+
+            </div>
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+        <div class="content-grids">
+            <h4>Sách sắp phát hành</h4>
+            <div class="section group">
+                <div id="spsapphathanh" class="owl-carousel">
+                    @foreach (var item in bookFuture)
+                    {
+                        var url = "/sap-phat-hanh/" + item.MetaTitle + "-" + item.ID;
+                        <div class="grid_1_of_4 images_1_of_4 products-info">
+                            <img src="@item.Image">
+                            <div class="Namebook" title="@item.Name">
+                                <a href="@url">@item.Name</a>
+                            </div>
+
+                            <div class="Tac-Gia" style="text-align:center;"><a href="/Tac-gia/@item.Author">@item.Author</a></div>
+                            <div class="Prices" style="text-align:center">@item.Price.Value.ToString("N0") ₫</div>
+                            <div class="rootPrinces" style="text-align:center">@item.PromotionPrice.Value.ToString("N0") ₫</div>
+                            <ul>
+                                <li><a class="cart" href="/them-gio-hang?BookID=@item.ID&quantity=1"> </a></li>
+
+                               
+                            </ul>
+                        </div>
+
+                    }
+                </div>
+                    
+
+
+                </div>
+
+
+        </div>
+        <div class="content-grids">
+            <h4>Sách bán chạy</h4>
+            <div class="section group">
+                <div id="spbanchay" class="owl-carousel">
+                @foreach (var item in bookView)
+                {
+                    var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+
+                    <div class="grid_1_of_4 images_1_of_4 products-info" style="width:230px;height:500px">
+                        <img src="@item.Image">
+                        <div class="Namebook" style="height:50px;overflow:hidden" title="@item.Name">
+                            <a href="@url">@item.Name</a>
+                        </div>
+
+
+                        <div class="Tac-Gia" style="text-align:center;"><a href="/Tac-gia/@item.Author">@item.Author</a></div>
+                        <div class="Prices" style="text-align:center">@item.Price.Value.ToString("N0") ₫</div>
+                        <div class="rootPrinces" style="text-align:center">@item.PromotionPrice.Value.ToString("N0") ₫</div>
+                        <ul>
+                            <li><a class="cart" href="/them-gio-hang?BookID=@item.ID&quantity=1"> </a></li>
+
+
+                        </ul>
+                    </div>
+
+                }</div>
+                  
+
+
+                </div>
+
+
+        </div>
+
+
+
+    </div>
+    <div class="clear"> </div>
+</div>
+
+

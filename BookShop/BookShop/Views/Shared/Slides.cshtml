@@ -1,0 +1,34 @@
+﻿
+    @*@model List<Model.EF.Slide>*@
+    @{  
+        var slide = (List<Model.EF.Slide>)ViewBag.slide;
+
+        var book = (List<Model.EF.Book>)ViewBag.Book; }
+
+    <div class="image-slider">
+        <!-- Slideshow 1 -->
+        <ul class="rslides" id="slider1">
+
+            @foreach (var item in slide)
+            {
+                foreach (var itemBook in book)
+                {
+                    if (item.BookID == itemBook.ID)
+                    {
+                        var url = "/chi-tiet/" + itemBook.MetaTitle + "-" + itemBook.ID;
+
+                        <li><a href="@url"><img src="@item.Image" /></a></li> }
+
+                }
+
+
+
+            }
+        </ul>
+
+
+
+        <!-- Slideshow 2 -->
+    </div>
+
+

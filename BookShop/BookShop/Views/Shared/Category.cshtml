@@ -1,0 +1,77 @@
+﻿@* @model List<Model.EF.Category> *@
+@{ var category = (List<Model.EF.Category>)ViewBag.Category;
+    var bookcategory = (List<Model.EF.BookCategory>)ViewBag.BookCategory;
+}
+
+<div class="content-sidebar">
+    <h4>Danh mục sản phẩm</h4>
+    <ul>
+        @foreach (var item in category)
+        {
+            <li class="dropdown">
+                <a href="/chi-tiet/@item.MetaTitle-@item.ID" class="dropdown-toggle" data-toggle="dropdown">@item.Name</a>
+                <ul class="dropdown-menu">
+
+                    @foreach (var itemBook in bookcategory)
+                    {
+                        if (item.ID == itemBook.ParentID)
+                        {
+                            if (itemBook.ID == 2)
+                            {
+                                <li><a href="/sach-moi">@itemBook.Name</a></li>
+                            }
+                            else if (itemBook.ID == 3)
+                            {
+                                <li><a href="/sap-phat-hanh">@itemBook.Name</a></li>
+                            }
+                            else if (itemBook.ID == 1)
+                            {
+                                <li><a href="/sach-ban-chay">@itemBook.Name</a></li>
+                            }
+                            else
+                            {
+                                <li><a href="/the-loai/@itemBook.MetaTitle-@itemBook.ID">@itemBook.Name</a></li>
+                            }
+                        }
+
+                    }
+
+
+
+
+                </ul>
+            </li>
+
+        }
+
+    </ul>
+
+    <h4>Tin tức</h4>
+    <div class="ctboxleft">
+        <div id="slider-tintuc" class="owl-carousel">
+            <div class="item tintucl">
+                <a href="/sach-ban-chay"><img src="/Assets/Client/images/Merry.jpg"></a>
+                <h3><a href="">Chào mừng lễ giáng sinh</a></h3>
+                <p>Khi nghe kể về câu chuyện Ông già Noel, chắc hẳn có rất nhiều bé thắc mắc bên trong ngôi nhà của ông già Noel có những gì? Kibu sẽ gửi đến một góc ngôi nhà của ông già Noel cho các bé tham quan, và đặc biệt hơn nữa, bé có thể tô màu cho chú tuần lộc của ông già Noel và tự tay làm tranh đất nặn để trang trí hoặc tặng quà cho Ông bà, Bố mẹ với những lời chúc yêu thương viết vào tấm thiệp sẵn có. Thật thú vị phải không các bé.</p>
+            </div>
+            <div class="item tintucl">
+                <a href=""><img src="/Assets/Client/images/Thay-Co-Giao.jpg"></a>
+                <h3><a href="/sach-moi">Tri ân thầy cô</a></h3>
+                <p>Những lời tri ân thầy cô nhân ngày ra trường luôn là đề tài được nhiều bạn trả tìm kiếm, bởi dịp ra trường là lúc chia xa mái trường, xa bạn bè và xa cả những người thầy, người cô đã đồng hành cùng bạn trong suốt ba năm học. Những cảm xúc thật lòng bao giờ cũng gây xúc động và khiến chúng ta không khỏi bồi hồi. Nếu như bạn chưa biết viết một lời tri ân để đọc vào dịp lễ đặc biệt này thì có thể tham khảo những cuốn sách, đoạn viết hay và cảm động sau đây nhé.</p>
+            </div>
+            <div class="item tintucl">
+                <a href=""><img src="/Assets/Client/images/newbook.jpg"></a>
+                <h3><a href="/sach-moi">NEW BOOKS</a></h3>
+                <p>Kích thích trí não, giảm căng thẳng, cải thiện trí nhớ, tăng khả năng tập trung... rất nhiều lý do để bạn nên đọc sách. Chia sẻ cùng các bạn 10 cuốn sách hay nhất, bạn nên đọc nó bởi vì có thể nó sẽ thay đổi cuộc đời bạn đấy!...</p>
+            </div>
+            <div class="item tintucl">
+                <a href=""><img src="/Assets/Client/images/doi-thay-doi-khi-chung-ta-thay-doi-ohay-tv-98954.jpg"></a>
+                <h3>Tri ân thầy cô</h3>
+                <p>Kích thích trí não, giảm căng thẳng, cải thiện trí nhớ, tăng khả năng tập trung... rất nhiều lý do để bạn nên đọc sách. Chia sẻ cùng các bạn 10 cuốn sách hay nhất, bạn nên đọc nó bởi vì có thể nó sẽ thay đổi cuộc đời bạn đấy!...</p>
+            </div>
+        </div>
+    </div>
+    <div class="ctboxleft qc">
+        <a href=""><img src="/Assets/Client/images/cach-thuc-mua-hang.gif"></a>
+    </div>
+</div>

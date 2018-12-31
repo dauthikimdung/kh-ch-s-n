@@ -1,0 +1,68 @@
+﻿
+
+  
+    @model List<BookShop.Models.CartItem>
+
+
+
+    @if (Model != null)
+            {
+                var sum = new long();
+    <div class="cart">
+        <div class="discart">
+            <span class="mycart">Giỏ hàng:</span>
+            <span class="count_products_cart">
+                @Model.Sum(x => x.Quantity) Sản phẩm
+            </span>
+        </div>
+        <div class="top-cart-content">
+            <div class="CartHover">
+                @foreach (var item in Model)
+                {
+                    <div class="small_products">
+                        <a href="#">
+                            <div class="image">
+                                <img src="@item.Book.Image" title="@item.Book.Name">
+                            </div>
+                            <div class="info">
+                                <div class="title">@item.Book.Name</div>
+                                <div class="Tac-Gia" style="color:#3e003e; font-size:12px; margin:4px 10px; ">@item.Book.Author</div>
+                                <div class="prices">@((item.Book.Price.GetValueOrDefault(0) * item.Quantity).ToString("N0")) ₫</div>
+                            </div>
+                        </a>
+                    </div>
+                    sum += (long)(item.Book.Price.GetValueOrDefault(0) * item.Quantity);
+                }
+
+                <div class="ctotal">
+                    Tổng tiền: <b>@sum.ToString("N0") ₫ </b>
+                </div>
+                <div class="buttom" id="showcartlink">
+                    <a class="cartlink" href="/Cart" title="GIỎ HÀNG CỦA TÔI">
+                        Xem giỏ hàng
+                        <i class="fa fa-play"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="cart">
+        <div class="discart">
+            <span class="mycart">Giỏ hàng:</span>
+            <span class="count_products_cart">
+                0 sản phẩm
+            </span>
+        </div>
+        <div class="top-cart-content">
+            <div class="CartHover">
+                Bạn chưa có sản phẩm nào trong giỏ hàng
+            </div>
+        </div>
+    </div>
+}
+
+
+

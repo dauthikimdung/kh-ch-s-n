@@ -1,0 +1,1247 @@
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\ApplicationInsights.config
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\csc.exe
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\vbc.exe
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\BookShop.dll.config
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\BookShop.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\BookShop.pdb
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Antlr3.Runtime.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\EntityFramework.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Newtonsoft.Json.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Owin.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.Helpers.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.Mvc.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.Optimization.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.Razor.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.WebPages.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\WebGrease.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.Helpers.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.Mvc.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.Optimization.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.Razor.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.WebPages.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\EntityFramework.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\obj\Debug\BookShop.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\obj\Debug\BookShop.pdb
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Model.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Model.pdb
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Facebook.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Facebook.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\PagedList.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\PagedList.Mvc.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\PagedList.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\PagedList.Mvc.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Autofac.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\CKSource.FileSystem.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\ImageProcessor.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\x86\sqlcese40.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\x86\sqlceqp40.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\x86\sqlceme40.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\x86\sqlceer40EN.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\x86\sqlcecompact40.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\x86\sqlceca40.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\amd64\sqlcese40.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\amd64\sqlceqp40.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\amd64\sqlceme40.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\amd64\sqlceer40EN.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\amd64\sqlcecompact40.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\amd64\sqlceca40.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\System.Data.SqlServerCe.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\CKFinder.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Autofac.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\CKFinder.pdb
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\CKSource.FileSystem.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Newtonsoft.Json.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\ApplicationInsights.config
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\csc.exe
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\vbc.exe
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\BookShop.dll.config
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\BookShop.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\BookShop.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\x86\sqlcese40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\x86\sqlceqp40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\x86\sqlceme40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\x86\sqlceer40EN.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\x86\sqlcecompact40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\x86\sqlceca40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\amd64\sqlcese40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\amd64\sqlceqp40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\amd64\sqlceme40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\amd64\sqlceer40EN.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\amd64\sqlcecompact40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\amd64\sqlceca40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Antlr3.Runtime.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Autofac.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\CKFinder.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\CKSource.FileSystem.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\EntityFramework.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Facebook.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\ImageProcessor.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Model.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Newtonsoft.Json.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Owin.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\PagedList.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\PagedList.Mvc.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Data.SqlServerCe.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.Helpers.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.Mvc.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.Optimization.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.Razor.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.WebPages.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\WebGrease.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Model.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Model.dll.config
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Autofac.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\CKFinder.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\CKSource.FileSystem.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Facebook.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Newtonsoft.Json.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\PagedList.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\PagedList.Mvc.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.Helpers.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.Mvc.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.Optimization.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.Razor.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.WebPages.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\EntityFramework.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\obj\Debug\BookShop.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\BookShop\obj\Debug\BookShop.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\ApplicationInsights.config
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\csc.exe
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\vbc.exe
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\BookShop.dll.config
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\BookShop.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\BookShop.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\x86\sqlcese40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\x86\sqlceqp40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\x86\sqlceme40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\x86\sqlceer40EN.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\x86\sqlcecompact40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\x86\sqlceca40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\amd64\sqlcese40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceqp40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceme40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceer40EN.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\amd64\sqlcecompact40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceca40.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Antlr3.Runtime.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Autofac.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\CKFinder.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\CKSource.FileSystem.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\EntityFramework.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Facebook.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\ImageProcessor.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Model.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Newtonsoft.Json.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Owin.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\PagedList.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\PagedList.Mvc.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Data.SqlServerCe.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.Helpers.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.Mvc.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.Optimization.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.Razor.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\WebGrease.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Model.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Model.dll.config
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Autofac.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\CKFinder.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\CKSource.FileSystem.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Facebook.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Newtonsoft.Json.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\PagedList.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\PagedList.Mvc.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.Helpers.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.Mvc.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.Optimization.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.Razor.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\EntityFramework.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\obj\Debug\BookShop.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\BookShop\obj\Debug\BookShop.pdb
+G:\WEBbookseller\BookShop\BookShop\bin\ApplicationInsights.config
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\csc.exe
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\vbc.exe
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+G:\WEBbookseller\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+G:\WEBbookseller\BookShop\BookShop\bin\BookShop.dll.config
+G:\WEBbookseller\BookShop\BookShop\bin\BookShop.dll
+G:\WEBbookseller\BookShop\BookShop\bin\BookShop.pdb
+G:\WEBbookseller\BookShop\BookShop\bin\x86\sqlcese40.dll
+G:\WEBbookseller\BookShop\BookShop\bin\x86\sqlceqp40.dll
+G:\WEBbookseller\BookShop\BookShop\bin\x86\sqlceme40.dll
+G:\WEBbookseller\BookShop\BookShop\bin\x86\sqlceer40EN.dll
+G:\WEBbookseller\BookShop\BookShop\bin\x86\sqlcecompact40.dll
+G:\WEBbookseller\BookShop\BookShop\bin\x86\sqlceca40.dll
+G:\WEBbookseller\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+G:\WEBbookseller\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+G:\WEBbookseller\BookShop\BookShop\bin\amd64\sqlcese40.dll
+G:\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceqp40.dll
+G:\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceme40.dll
+G:\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceer40EN.dll
+G:\WEBbookseller\BookShop\BookShop\bin\amd64\sqlcecompact40.dll
+G:\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceca40.dll
+G:\WEBbookseller\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+G:\WEBbookseller\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+G:\WEBbookseller\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\WEBbookseller\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\WEBbookseller\BookShop\BookShop\bin\Antlr3.Runtime.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Autofac.dll
+G:\WEBbookseller\BookShop\BookShop\bin\CKFinder.dll
+G:\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+G:\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+G:\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+G:\WEBbookseller\BookShop\BookShop\bin\CKSource.FileSystem.dll
+G:\WEBbookseller\BookShop\BookShop\bin\EntityFramework.dll
+G:\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+G:\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Facebook.dll
+G:\WEBbookseller\BookShop\BookShop\bin\ImageProcessor.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Model.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Newtonsoft.Json.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Owin.dll
+G:\WEBbookseller\BookShop\BookShop\bin\PagedList.dll
+G:\WEBbookseller\BookShop\BookShop\bin\PagedList.Mvc.dll
+G:\WEBbookseller\BookShop\BookShop\bin\System.Data.SqlServerCe.dll
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.Helpers.dll
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.Mvc.dll
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.Optimization.dll
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.Razor.dll
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.dll
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+G:\WEBbookseller\BookShop\BookShop\bin\WebGrease.dll
+G:\WEBbookseller\BookShop\BookShop\bin\Model.pdb
+G:\WEBbookseller\BookShop\BookShop\bin\Model.dll.config
+G:\WEBbookseller\BookShop\BookShop\bin\Autofac.xml
+G:\WEBbookseller\BookShop\BookShop\bin\CKFinder.pdb
+G:\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+G:\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+G:\WEBbookseller\BookShop\BookShop\bin\CKSource.FileSystem.xml
+G:\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Facebook.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Newtonsoft.Json.xml
+G:\WEBbookseller\BookShop\BookShop\bin\PagedList.xml
+G:\WEBbookseller\BookShop\BookShop\bin\PagedList.Mvc.xml
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.Helpers.xml
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.Mvc.xml
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.Optimization.xml
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.Razor.xml
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.xml
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+G:\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+G:\WEBbookseller\BookShop\BookShop\bin\EntityFramework.xml
+G:\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+G:\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\WEBbookseller\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+G:\WEBbookseller\BookShop\BookShop\obj\Debug\BookShop.dll
+G:\WEBbookseller\BookShop\BookShop\obj\Debug\BookShop.pdb
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\ApplicationInsights.config
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\csc.exe
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\vbc.exe
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\BookShop.dll.config
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\BookShop.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\BookShop.pdb
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\x86\sqlcese40.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\x86\sqlceqp40.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\x86\sqlceme40.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\x86\sqlceer40EN.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\x86\sqlcecompact40.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\x86\sqlceca40.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\amd64\sqlcese40.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceqp40.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceme40.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceer40EN.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\amd64\sqlcecompact40.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\amd64\sqlceca40.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Antlr3.Runtime.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Autofac.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\CKFinder.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\CKSource.FileSystem.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\EntityFramework.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Facebook.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\ImageProcessor.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Model.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Newtonsoft.Json.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Owin.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\PagedList.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\PagedList.Mvc.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Data.SqlServerCe.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.Helpers.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.Mvc.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.Optimization.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.Razor.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\WebGrease.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Model.pdb
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Model.dll.config
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Autofac.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\CKFinder.pdb
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\CKSource.FileSystem.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Facebook.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Newtonsoft.Json.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\PagedList.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\PagedList.Mvc.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.Helpers.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.Mvc.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.Optimization.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.Razor.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\EntityFramework.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\obj\Debug\BookShop.dll
+G:\Cong nghe web\WEBbookseller\BookShop\BookShop\obj\Debug\BookShop.pdb
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\ApplicationInsights.config
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\csc.exe
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\vbc.exe
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\BookShop.dll.config
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\BookShop.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\BookShop.pdb
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\x86\sqlcese40.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\x86\sqlceqp40.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\x86\sqlceme40.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\x86\sqlceer40EN.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\x86\sqlcecompact40.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\x86\sqlceca40.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\amd64\sqlcese40.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\amd64\sqlceqp40.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\amd64\sqlceme40.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\amd64\sqlceer40EN.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\amd64\sqlcecompact40.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\amd64\sqlceca40.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Antlr3.Runtime.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Autofac.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\CKFinder.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\CKSource.FileSystem.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\EntityFramework.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Facebook.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\ImageProcessor.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Model.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Newtonsoft.Json.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Owin.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\PagedList.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\PagedList.Mvc.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Data.SqlServerCe.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.Helpers.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.Mvc.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.Optimization.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.Razor.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.WebPages.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\WebGrease.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Model.pdb
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Model.dll.config
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Autofac.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\CKFinder.pdb
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\CKSource.FileSystem.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Facebook.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Newtonsoft.Json.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\PagedList.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\PagedList.Mvc.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.Helpers.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.Mvc.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.Optimization.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.Razor.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.WebPages.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\EntityFramework.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\obj\Debug\BookShop.dll
+G:\Cong nghe web\luu2\thu\BookShop\BookShop\obj\Debug\BookShop.pdb
+G:\Cong nghe web\thu\BookShop\BookShop\bin\ApplicationInsights.config
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\csc.exe
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\vbc.exe
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+G:\Cong nghe web\thu\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+G:\Cong nghe web\thu\BookShop\BookShop\bin\BookShop.dll.config
+G:\Cong nghe web\thu\BookShop\BookShop\bin\BookShop.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\BookShop.pdb
+G:\Cong nghe web\thu\BookShop\BookShop\bin\x86\sqlcese40.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\x86\sqlceqp40.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\x86\sqlceme40.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\x86\sqlceer40EN.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\x86\sqlcecompact40.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\x86\sqlceca40.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+G:\Cong nghe web\thu\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\amd64\sqlcese40.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\amd64\sqlceqp40.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\amd64\sqlceme40.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\amd64\sqlceer40EN.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\amd64\sqlcecompact40.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\amd64\sqlceca40.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+G:\Cong nghe web\thu\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\Cong nghe web\thu\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Antlr3.Runtime.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Autofac.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\CKFinder.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\CKSource.FileSystem.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\EntityFramework.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Facebook.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\ImageProcessor.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Model.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Newtonsoft.Json.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Owin.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\PagedList.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\PagedList.Mvc.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Data.SqlServerCe.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.Helpers.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.Mvc.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.Optimization.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.Razor.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.WebPages.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\WebGrease.dll
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Model.pdb
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Model.dll.config
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Autofac.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\CKFinder.pdb
+G:\Cong nghe web\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\CKSource.FileSystem.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Facebook.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Newtonsoft.Json.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\PagedList.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\PagedList.Mvc.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.Helpers.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.Mvc.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.Optimization.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.Razor.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.WebPages.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+G:\Cong nghe web\thu\BookShop\BookShop\bin\EntityFramework.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Cong nghe web\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Cong nghe web\thu\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+G:\Cong nghe web\thu\BookShop\BookShop\obj\Debug\BookShop.dll
+G:\Cong nghe web\thu\BookShop\BookShop\obj\Debug\BookShop.pdb
+C:\WEB\thu\BookShop\BookShop\bin\ApplicationInsights.config
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\csc.exe
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\vbc.exe
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+C:\WEB\thu\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+C:\WEB\thu\BookShop\BookShop\bin\BookShop.dll.config
+C:\WEB\thu\BookShop\BookShop\bin\BookShop.dll
+C:\WEB\thu\BookShop\BookShop\bin\BookShop.pdb
+C:\WEB\thu\BookShop\BookShop\bin\x86\sqlcese40.dll
+C:\WEB\thu\BookShop\BookShop\bin\x86\sqlceqp40.dll
+C:\WEB\thu\BookShop\BookShop\bin\x86\sqlceme40.dll
+C:\WEB\thu\BookShop\BookShop\bin\x86\sqlceer40EN.dll
+C:\WEB\thu\BookShop\BookShop\bin\x86\sqlcecompact40.dll
+C:\WEB\thu\BookShop\BookShop\bin\x86\sqlceca40.dll
+C:\WEB\thu\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\WEB\thu\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\WEB\thu\BookShop\BookShop\bin\amd64\sqlcese40.dll
+C:\WEB\thu\BookShop\BookShop\bin\amd64\sqlceqp40.dll
+C:\WEB\thu\BookShop\BookShop\bin\amd64\sqlceme40.dll
+C:\WEB\thu\BookShop\BookShop\bin\amd64\sqlceer40EN.dll
+C:\WEB\thu\BookShop\BookShop\bin\amd64\sqlcecompact40.dll
+C:\WEB\thu\BookShop\BookShop\bin\amd64\sqlceca40.dll
+C:\WEB\thu\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\WEB\thu\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\WEB\thu\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\WEB\thu\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\WEB\thu\BookShop\BookShop\bin\Antlr3.Runtime.dll
+C:\WEB\thu\BookShop\BookShop\bin\Autofac.dll
+C:\WEB\thu\BookShop\BookShop\bin\CKFinder.dll
+C:\WEB\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+C:\WEB\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+C:\WEB\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+C:\WEB\thu\BookShop\BookShop\bin\CKSource.FileSystem.dll
+C:\WEB\thu\BookShop\BookShop\bin\EntityFramework.dll
+C:\WEB\thu\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+C:\WEB\thu\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.dll
+C:\WEB\thu\BookShop\BookShop\bin\Facebook.dll
+C:\WEB\thu\BookShop\BookShop\bin\ImageProcessor.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+C:\WEB\thu\BookShop\BookShop\bin\Model.dll
+C:\WEB\thu\BookShop\BookShop\bin\Newtonsoft.Json.dll
+C:\WEB\thu\BookShop\BookShop\bin\Owin.dll
+C:\WEB\thu\BookShop\BookShop\bin\PagedList.dll
+C:\WEB\thu\BookShop\BookShop\bin\PagedList.Mvc.dll
+C:\WEB\thu\BookShop\BookShop\bin\System.Data.SqlServerCe.dll
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.Helpers.dll
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.Mvc.dll
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.Optimization.dll
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.Razor.dll
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.WebPages.dll
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+C:\WEB\thu\BookShop\BookShop\bin\WebGrease.dll
+C:\WEB\thu\BookShop\BookShop\bin\Model.pdb
+C:\WEB\thu\BookShop\BookShop\bin\Model.dll.config
+C:\WEB\thu\BookShop\BookShop\bin\Autofac.xml
+C:\WEB\thu\BookShop\BookShop\bin\CKFinder.pdb
+C:\WEB\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+C:\WEB\thu\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+C:\WEB\thu\BookShop\BookShop\bin\CKSource.FileSystem.xml
+C:\WEB\thu\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.xml
+C:\WEB\thu\BookShop\BookShop\bin\Facebook.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WEB\thu\BookShop\BookShop\bin\Newtonsoft.Json.xml
+C:\WEB\thu\BookShop\BookShop\bin\PagedList.xml
+C:\WEB\thu\BookShop\BookShop\bin\PagedList.Mvc.xml
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.Helpers.xml
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.Mvc.xml
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.Optimization.xml
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.Razor.xml
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.WebPages.xml
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+C:\WEB\thu\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+C:\WEB\thu\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+C:\WEB\thu\BookShop\BookShop\bin\EntityFramework.xml
+C:\WEB\thu\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\WEB\thu\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\WEB\thu\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\WEB\thu\BookShop\BookShop\obj\Debug\BookShop.dll
+C:\WEB\thu\BookShop\BookShop\obj\Debug\BookShop.pdb
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\ApplicationInsights.config
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\csc.exe
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\vbc.exe
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\BookShop.dll.config
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\BookShop.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\BookShop.pdb
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlcese40.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlceqp40.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlceme40.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlceer40EN.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlcecompact40.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlceca40.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlcese40.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlceqp40.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlceme40.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlceer40EN.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlcecompact40.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlceca40.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Antlr3.Runtime.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Autofac.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKFinder.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.FileSystem.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Facebook.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\ImageProcessor.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Model.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Newtonsoft.Json.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Owin.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\PagedList.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\PagedList.Mvc.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Data.SqlServerCe.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Helpers.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Mvc.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Optimization.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Razor.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\WebGrease.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Model.pdb
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Model.dll.config
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Autofac.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKFinder.pdb
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.FileSystem.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Facebook.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Newtonsoft.Json.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\PagedList.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\PagedList.Mvc.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Helpers.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Mvc.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Optimization.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Razor.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Cong nghe web\Nghiem\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+D:\Cong nghe web\Nghiem\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+D:\Cong nghe web\Nghiem\BookShop\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+D:\Cong nghe web\Nghiem\BookShop\BookShop\obj\Debug\BookShop.dll
+D:\Cong nghe web\Nghiem\BookShop\BookShop\obj\Debug\BookShop.pdb
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\ApplicationInsights.config
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\csc.exe
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\System.Collections.Immutable.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\vbc.exe
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\roslyn\VBCSCompiler.exe.config
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\BookShop.dll.config
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\BookShop.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\BookShop.pdb
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlcese40.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlceqp40.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlceme40.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlceer40EN.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlcecompact40.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\sqlceca40.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlcese40.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlceqp40.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlceme40.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlceer40EN.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlcecompact40.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\sqlceca40.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Antlr3.Runtime.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Autofac.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKFinder.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.FileSystem.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.FileSystem.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.SqlServer.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Facebook.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\ImageProcessor.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.Web.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.ApplicationInsights.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Web.Infrastructure.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Model.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Newtonsoft.Json.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Owin.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\PagedList.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\PagedList.Mvc.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Data.SqlServerCe.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Helpers.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Mvc.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Optimization.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Razor.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.Deployment.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.Razor.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\WebGrease.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Model.pdb
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Model.dll.config
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Autofac.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKFinder.pdb
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.CKFinder.Connector.Core.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.CKFinder.Connector.KeyValue.EntityFramework.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\CKSource.FileSystem.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.SqlServerCompact.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Facebook.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.DependencyCollector.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.Web.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AI.WindowsServer.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.ApplicationInsights.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Newtonsoft.Json.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\PagedList.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\PagedList.Mvc.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Helpers.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Mvc.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Optimization.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.Razor.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.Deployment.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\System.Web.WebPages.Razor.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Antlr3.Runtime.pdb
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\EntityFramework.SqlServer.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Google.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Cong nghe web\Nghiem\BookShop\BookShop\obj\Debug\BookShop.csprojAssemblyReference.cache
+E:\Cong nghe web\Nghiem\BookShop\BookShop\obj\Debug\BookShop.csproj.CoreCompileInputs.cache
+E:\Cong nghe web\Nghiem\BookShop\BookShop\obj\Debug\BookShop.csproj.CopyComplete
+E:\Cong nghe web\Nghiem\BookShop\BookShop\obj\Debug\BookShop.dll
+E:\Cong nghe web\Nghiem\BookShop\BookShop\obj\Debug\BookShop.pdb

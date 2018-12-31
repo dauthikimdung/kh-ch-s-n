@@ -1,0 +1,178 @@
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\Model.dll.config
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\Model.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\Model.pdb
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\EntityFramework.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\EntityFramework.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\obj\Debug\Model.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\obj\Debug\Model.pdb
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\PagedList.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\System.Web.WebPages.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\System.Web.Razor.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\PagedList.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\System.Web.WebPages.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\System.Web.Razor.xml
+C:\Users\Hung\Documents\Visual Studio 2015\Projects\ASP.NET\BookShop\Model\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\Model.dll.config
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\Model.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\Model.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\EntityFramework.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\PagedList.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\System.Web.WebPages.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\System.Web.Razor.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\EntityFramework.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\PagedList.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\System.Web.WebPages.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\Microsoft.Web.Infrastructure.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\System.Web.Razor.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\obj\Debug\Model.csproj.CopyComplete
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\obj\Debug\Model.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEB bán sách\BookShop\Model\obj\Debug\Model.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\Model.dll.config
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\Model.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\Model.pdb
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\PagedList.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\System.Web.WebPages.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\System.Web.Razor.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\PagedList.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\System.Web.WebPages.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\Microsoft.Web.Infrastructure.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\System.Web.Razor.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\obj\Debug\Model.csproj.CopyComplete
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\obj\Debug\Model.dll
+G:\Study\Year 4\Ky 1\web\BTLWEB\WEBbookseller\BookShop\Model\obj\Debug\Model.pdb
+G:\WEBbookseller\BookShop\Model\bin\Debug\Model.dll.config
+G:\WEBbookseller\BookShop\Model\bin\Debug\Model.dll
+G:\WEBbookseller\BookShop\Model\bin\Debug\Model.pdb
+G:\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.dll
+G:\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\WEBbookseller\BookShop\Model\bin\Debug\PagedList.dll
+G:\WEBbookseller\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+G:\WEBbookseller\BookShop\Model\bin\Debug\System.Web.WebPages.dll
+G:\WEBbookseller\BookShop\Model\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\WEBbookseller\BookShop\Model\bin\Debug\System.Web.Razor.dll
+G:\WEBbookseller\BookShop\Model\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.xml
+G:\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\WEBbookseller\BookShop\Model\bin\Debug\PagedList.xml
+G:\WEBbookseller\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+G:\WEBbookseller\BookShop\Model\bin\Debug\System.Web.WebPages.xml
+G:\WEBbookseller\BookShop\Model\bin\Debug\Microsoft.Web.Infrastructure.xml
+G:\WEBbookseller\BookShop\Model\bin\Debug\System.Web.Razor.xml
+G:\WEBbookseller\BookShop\Model\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\WEBbookseller\BookShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\WEBbookseller\BookShop\Model\obj\Debug\Model.dll
+G:\WEBbookseller\BookShop\Model\obj\Debug\Model.pdb
+G:\Cong nghe web\WEBbookseller\BookShop\Model\bin\Debug\Model.dll.config
+G:\Cong nghe web\WEBbookseller\BookShop\Model\bin\Debug\Model.dll
+G:\Cong nghe web\WEBbookseller\BookShop\Model\bin\Debug\Model.pdb
+G:\Cong nghe web\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.dll
+G:\Cong nghe web\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\Cong nghe web\WEBbookseller\BookShop\Model\bin\Debug\PagedList.dll
+G:\Cong nghe web\WEBbookseller\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+G:\Cong nghe web\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.xml
+G:\Cong nghe web\WEBbookseller\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\Cong nghe web\WEBbookseller\BookShop\Model\bin\Debug\PagedList.xml
+G:\Cong nghe web\WEBbookseller\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+G:\Cong nghe web\WEBbookseller\BookShop\Model\obj\Debug\Model.dll
+G:\Cong nghe web\WEBbookseller\BookShop\Model\obj\Debug\Model.pdb
+G:\Cong nghe web\WEBbookseller\BookShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\Cong nghe web\luu2\thu\BookShop\Model\bin\Debug\Model.dll.config
+G:\Cong nghe web\luu2\thu\BookShop\Model\bin\Debug\Model.dll
+G:\Cong nghe web\luu2\thu\BookShop\Model\bin\Debug\Model.pdb
+G:\Cong nghe web\luu2\thu\BookShop\Model\bin\Debug\EntityFramework.dll
+G:\Cong nghe web\luu2\thu\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\Cong nghe web\luu2\thu\BookShop\Model\bin\Debug\PagedList.dll
+G:\Cong nghe web\luu2\thu\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+G:\Cong nghe web\luu2\thu\BookShop\Model\bin\Debug\EntityFramework.xml
+G:\Cong nghe web\luu2\thu\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\Cong nghe web\luu2\thu\BookShop\Model\bin\Debug\PagedList.xml
+G:\Cong nghe web\luu2\thu\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+G:\Cong nghe web\luu2\thu\BookShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\Cong nghe web\luu2\thu\BookShop\Model\obj\Debug\Model.dll
+G:\Cong nghe web\luu2\thu\BookShop\Model\obj\Debug\Model.pdb
+G:\Cong nghe web\thu\BookShop\Model\bin\Debug\Model.dll.config
+G:\Cong nghe web\thu\BookShop\Model\bin\Debug\Model.dll
+G:\Cong nghe web\thu\BookShop\Model\bin\Debug\Model.pdb
+G:\Cong nghe web\thu\BookShop\Model\bin\Debug\EntityFramework.dll
+G:\Cong nghe web\thu\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\Cong nghe web\thu\BookShop\Model\bin\Debug\PagedList.dll
+G:\Cong nghe web\thu\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+G:\Cong nghe web\thu\BookShop\Model\bin\Debug\EntityFramework.xml
+G:\Cong nghe web\thu\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\Cong nghe web\thu\BookShop\Model\bin\Debug\PagedList.xml
+G:\Cong nghe web\thu\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+G:\Cong nghe web\thu\BookShop\Model\obj\Debug\Model.dll
+G:\Cong nghe web\thu\BookShop\Model\obj\Debug\Model.pdb
+C:\WEB\thu\BookShop\Model\bin\Debug\Model.dll.config
+C:\WEB\thu\BookShop\Model\bin\Debug\Model.dll
+C:\WEB\thu\BookShop\Model\bin\Debug\Model.pdb
+C:\WEB\thu\BookShop\Model\bin\Debug\EntityFramework.dll
+C:\WEB\thu\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\WEB\thu\BookShop\Model\bin\Debug\PagedList.dll
+C:\WEB\thu\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+C:\WEB\thu\BookShop\Model\bin\Debug\EntityFramework.xml
+C:\WEB\thu\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\WEB\thu\BookShop\Model\bin\Debug\PagedList.xml
+C:\WEB\thu\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+C:\WEB\thu\BookShop\Model\obj\Debug\Model.dll
+C:\WEB\thu\BookShop\Model\obj\Debug\Model.pdb
+D:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\Model.dll.config
+D:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\Model.dll
+D:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\Model.pdb
+D:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\EntityFramework.dll
+D:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\PagedList.dll
+D:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+D:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\EntityFramework.xml
+D:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\PagedList.xml
+D:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+D:\Cong nghe web\Nghiem\BookShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Cong nghe web\Nghiem\BookShop\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Cong nghe web\Nghiem\BookShop\Model\obj\Debug\Model.dll
+D:\Cong nghe web\Nghiem\BookShop\Model\obj\Debug\Model.pdb
+D:\Cong nghe web\Nghiem\BookShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\Model.dll.config
+E:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\Model.dll
+E:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\Model.pdb
+E:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\EntityFramework.dll
+E:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\PagedList.dll
+E:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\PagedList.Mvc.dll
+E:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\EntityFramework.xml
+E:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\PagedList.xml
+E:\Cong nghe web\Nghiem\BookShop\Model\bin\Debug\PagedList.Mvc.xml
+E:\Cong nghe web\Nghiem\BookShop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\Cong nghe web\Nghiem\BookShop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Cong nghe web\Nghiem\BookShop\Model\obj\Debug\Model.csproj.CopyComplete
+E:\Cong nghe web\Nghiem\BookShop\Model\obj\Debug\Model.dll
+E:\Cong nghe web\Nghiem\BookShop\Model\obj\Debug\Model.pdb

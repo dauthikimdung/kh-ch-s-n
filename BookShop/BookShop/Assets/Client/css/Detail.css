@@ -1,0 +1,427 @@
+﻿
+/*Đường dẫn sách*/
+
+.Pathway {
+    height: 24px;
+    display: block;
+    width: 100%;
+    margin: 0 auto 0 auto;
+    color: #999999;
+    line-height: 25px;
+    padding: 0;
+    z-index: 0;
+}
+
+    .Pathway ul li {
+        font-size: 13px;
+        float: left;
+        padding: 0 5px 0 0;
+        position: relative;
+        z-index: 0;
+        margin-top: 5px;
+        white-space: normal;
+        list-style-type: none;
+    }
+
+        .Pathway ul li a {
+            color: #ff0066;
+            padding: 0 10px 0 0;
+            text-decoration: none;
+            background: url(../images/orange-arrow-r.png) no-repeat right 2px;
+        }
+
+.sortable {
+    width: 1170px;
+    padding: 0;
+    margin-top: 5px;
+}
+.product_view_contener {
+    width: 100%;
+    padding: 0;
+    margin: 20px 0 0 0;
+    color: #333;
+}
+.sortleft {
+    width: 100%;
+    float: right;
+    overflow: hidden;
+    margin-left: -300px;
+}
+.product_info {
+    overflow: hidden;
+    margin-left: 320px;
+    margin-top: 5px;
+}
+
+.product_info h1 {
+        color: #333;
+        margin: 0;
+        padding: 0 0 10px 0;
+        text-transform: capitalize;
+        font-size: 18px;
+        font-weight: normal;
+        font-height: 25px;
+}
+.group {
+    margin-bottom: 10px;
+}
+
+.viewfield {
+    float: left;
+    margin: 5px 0;
+}
+
+    .viewfield a {
+        color: #ff0066;
+    }
+
+    .viewfield span {
+        float: left;
+        display: block;
+        width: 260px;
+        font-weight: bold;
+        margin-right: 20px;
+    }
+
+.prices_contener {
+    width: 100%;
+    padding: 10px 0;
+    position: relative;
+    border-bottom: 1px solid #e4e4e4;
+    margin-top: 5px;
+}
+
+.prices {
+    width: 60%;
+    float: left;
+}
+
+.salePrice {
+    margin: 5px 0;
+}
+
+.salePrice span {
+    font-weight: bold;
+    font-size: 30px;
+    color: green;
+}
+
+.rootprice {
+    display: inline-block;
+    padding-right: 30px;
+}
+a.booksale {
+    position: absolute;
+    background: #99cc00;
+    top: 20px;
+    padding: 10px 45px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    display: block;
+    white-space: normal;
+    text-decoration: none;
+    margin-left: 500px;
+    margin-top: 20px;
+    width: 200px;
+    height: 50px;
+}
+
+    a.booksale:hover, a.booksale:focus {
+        background-color: #86b300;
+        cursor: pointer;
+    }
+
+a.goshop {
+    position: absolute;
+    background: #F00;
+    top: 20px;
+    padding: 10px 45px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    display: block;
+    white-space: normal;
+    text-decoration: none;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+    a.goshop:hover, a.goshop:focus {
+        background-color: #930;
+        cursor: pointer;
+    }
+
+.intro {
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 8px 0;
+    margin-top: 90px;
+    border-top: 1px solid #e4e4e4;
+}
+
+    .intro i {
+        color: green;
+        padding-right: 5px;
+    }
+
+.block {
+    margin-top: 30px;
+    width: 100%;
+    margin-left: 16px;
+    overflow: hidden;
+}
+
+    .block h3 {
+        text-transform: capitalize;
+        color: #333;
+        font-size: 19px;
+        font-weight: normal;
+        padding-bottom: 5px;
+        margin-bottom: 15px;
+        margin-top: 15px;
+        color: #444;
+        border-bottom: 1px solid #e7e7e7;
+    }
+
+
+.cc {
+    max-height: 400px;
+    overflow: hidden;
+}
+
+.viewmore span {
+    margin: 10px auto;
+    display: block;
+    width: 450px;
+    padding: 10px 20px;
+    margin: 10px auto;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    display: block;
+    color: #fff;
+    background-color: green;
+    text-align: center;
+    cursor: poiter;
+}
+
+    .viewmore span:hover, viewmore span:focus {
+        background-color: #096;
+        cursor: pointer;
+    }
+
+.script {
+    display: none;
+}
+
+.intro1 {
+    width: 100%;
+    margin-bottom: 5px;
+    padding: 8px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #444;
+}
+
+#module_ProductFieds {
+    margin-bottom: 10px !important;
+}
+
+    #module_ProductFieds h3 {
+        text-transform: capitalize;
+        color: #333;
+        font-size: 19px;
+        font-weight: normal;
+        padding-bottom: 5px;
+        margin-bottom: 15px;
+        color: #444;
+        margin-top: 15px;
+        border-bottom: 1px solid #e7e7e7;
+    }
+
+h3 {
+    padding: 5px 0;
+    font-weight: normal;
+    font-size: 18px;
+    color: #303030;
+    margin: 20px 0px 20px 0;
+}
+
+#module_ProductFieds .fields {
+    border: 1px solid #ddd;
+    border-top: none;
+    font: 100% Arial,Helvetica,sans-serif;
+}
+
+.row0 {
+    background-color: #fff;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+#module_ProductFieds .fields td {
+    border-top: 1px solid #ddd;
+}
+
+.field_view_contenner .title, .field_view_contenner .values {
+    padding: 8px;
+}
+
+    .field_view_contenner .values a {
+        color: green;
+    }
+
+#module_ProductFieds .fields td {
+    border-top: 1px solid #ddd;
+}
+
+.field_view_contenner .title, .field_view_contenner .values {
+    padding: 8px;
+}
+
+#module_ProductFieds .fields .field_view_contenner .title {
+    width: 280px;
+    border-right: 1px solid #ddd;
+}
+
+.row1 {
+    background-color: #f2f2f2;
+}
+
+.bookNow span {
+    margin: 10px auto;
+    display: block;
+    width: 450px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ace600;
+    display: block;
+    background-color: #99cc00;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+
+a.bookNow span:hover, a.bookNow span:focus {
+    background-color: #86b300;
+    cursor: pointer;
+}
+
+a.bookNow {
+    width: 451px;
+    margin-left: 380px;
+}
+
+a.BuyNow span {
+    margin: 10px auto;
+    display: block;
+    width: 450px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    display: block;
+    background-color: #F00;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+}
+
+a.BuyNow {
+    text-decoration: none;
+}
+
+    a.BuyNow span:hover, a.BuyNow span:focus {
+        background-color: #C30;
+        cursor: pointer;
+    }
+
+/*Sản phẩm liên quan*/
+
+.product_contener {
+    width: 16.666% !important;
+    float: left;
+}
+
+.products {
+    width: 155px;
+    background: #FFFFFF;
+    padding: 0 5px;
+    margin: 10px auto;
+    position: relative;
+}
+
+    .products .image {
+        margin-bottom: 4px;
+        position: relative;
+        display: inline-table;
+    }
+
+        .products .image img {
+            width: 120px !important;
+            height: 168px !important;
+        }
+
+.image .saleprice {
+    font-weight: bold;
+    text-align: center;
+    color: #FFF;
+    font-size: 13px;
+    line-height: 23px;
+    width: 46px;
+    height: 37px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url(../images/saleprice.png) no-repeat;
+}
+
+.products .productname {
+    font-size: 100%;
+}
+
+    .products .productname a {
+        text-transform: capitalize;
+        font-family: 'Roboto Condensed', sans-serif;
+        color: #333;
+    }
+
+
+.products .fields {
+    font-size: 11px;
+}
+
+    .products .fields span {
+        display: block;
+        padding: 1px 0;
+    }
+
+        .products .fields span a {
+            color: #398439;
+            text-decoration: none;
+        }
+
+.products .prices {
+    color: #444444;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.promotionPrice {
+    margin: 1px 0;
+    color: #999999;
+    font-size: 11px;
+    text-decoration: line-through;
+}
+    
+
+
+

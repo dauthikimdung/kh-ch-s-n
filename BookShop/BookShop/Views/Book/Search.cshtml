@@ -1,0 +1,135 @@
+﻿@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var author = (List<Model.EF.Book>)ViewBag.Author;
+    var book_name = (List<Model.EF.Book>)ViewBag.Name;
+    var release = (List<Model.EF.Book>)ViewBag.Release;
+}
+<div class="wrap">
+    <div class="content">
+        <h3>Kết quả tìm kiếm theo từ khóa<span style="color:red; margin-left: 2px;"> @ViewBag.KeyWord </span></h3>
+        @if (book_name.Count > 0)
+        {
+            <div class="content-grids">
+                <h4>Sách</h4>
+                <div class="section group">
+                    @foreach (var item in book_name)
+                {
+
+                    var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+                    int sale = (int)((1 - item.Price / item.PromotionPrice) * 100);
+                        <div class="grid_1_of_4 images_1_of_4 products-info" style="width:230px;height:500px">
+
+                            <img src="@item.Image" style="width:219px;height:300px">
+                            <div class="Namebook">
+                                <a href="@url">@item.Name</a>
+                            </div>
+
+                            <div class="Tac-Gia" style="text-align:center;"><a href="/Tac-gia/@item.Author">@item.Author</a></div>
+                            <div class="Prices" style="text-align:center">@item.Price.Value.ToString("N0") ₫</div>
+                            <div class="rootPrinces" style="text-align:center">@item.PromotionPrice.Value.ToString("N0") ₫</div>
+                            <ul>
+                                <li><a class="cart" href="/them-gio-hang?BookID=@item.ID&quantity=1"> </a></li>
+
+                                <li><a class="Wishlist" href="single.html"> </a></li>
+                            </ul>
+                        </div>
+
+                    }
+
+
+                </div>
+
+
+
+            </div>
+
+        }
+        @if (author.Count > 0)
+        {
+            <div class="content-grids">
+                <h4>Tác giả</h4>
+                <div class="section group">
+                    @foreach (var item in author)
+                {
+
+                    var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+                    int sale = (int)((1 - item.Price / item.PromotionPrice) * 100);
+                        <div class="grid_1_of_4 images_1_of_4 products-info" style="width:230px;height:500px">
+
+                            <img src="@item.Image" style="width:219px;height:300px">
+                            <div class="Namebook">
+                                <a href="@url">@item.Name</a>
+                            </div>
+
+                            <div class="Tac-Gia" style="text-align:center;"><a href="#">@item.Author</a></div>
+                            <div class="Prices" style="text-align:center">@item.Price.Value.ToString("N0") ₫</div>
+                            <div class="rootPrinces" style="text-align:center">@item.PromotionPrice.Value.ToString("N0") ₫</div>
+                            <ul>
+                                <li><a class="cart" href="/them-gio-hang?BookID=@item.ID&quantity=1"> </a></li>
+
+                                <li><a class="Wishlist" href="single.html"> </a></li>
+                            </ul>
+                        </div>
+
+                    }
+
+
+                </div>
+
+
+
+            </div>
+        }
+        @if (release.Count > 0)
+        {
+            <div class="content-grids">
+                <h4>Nhà phát hành</h4>
+                <div class="section group">
+                    @foreach (var item in release)
+                {
+
+                    var url = "/chi-tiet/" + item.MetaTitle + "-" + item.ID;
+                    int sale = (int)((1 - item.Price / item.PromotionPrice) * 100);
+                        <div class="grid_1_of_4 images_1_of_4 products-info" style="width:230px;height:500px">
+
+                            <img src="@item.Image" style="width:219px;height:300px">
+                            <div class="Namebook">
+                                <a href="@url">@item.Name</a>
+                            </div>
+
+                            <div class="Tac-Gia" style="text-align:center;"><a href="#">@item.Author</a></div>
+                            <div class="Prices" style="text-align:center">@item.Price.Value.ToString("N0") ₫</div>
+                            <div class="rootPrinces" style="text-align:center">@item.PromotionPrice.Value.ToString("N0") ₫</div>
+                            <ul>
+                                <li><a class="cart" href="/them-gio-hang?BookID=@item.ID&quantity=1"> </a></li>
+
+                                <li><a class="Wishlist" href="single.html"> </a></li>
+                            </ul>
+                        </div>
+
+                    }
+
+
+                </div>
+
+
+
+            </div>
+
+        }
+        @if (book_name.Count <= 0 && author.Count <= 0 && release.Count <= 0)
+        {
+            <span class="alert alert-danger">Không tìm thấy dữ liệu với từ khóa <span> @ViewBag.KeyWord</span></span>
+        }
+
+        
+
+
+
+
+
+
+    </div>
+    <div class="clear"> </div>
+</div>

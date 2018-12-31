@@ -1,0 +1,98 @@
+﻿
+
+
+@model List<BookShop.Models.CartItem>
+@{
+    ViewBag.Title = "Payment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var sum = new long();
+}
+
+
+@section cartSection{
+<script src="~/Assets/Client/js/Controller/End_Payment.js"></script>
+}
+<div class="container">
+    <div class="w3-main">
+        <!-- Main -->
+        <div class="about-bottom">
+            <div class="w3l_about_bottom_left">
+
+                <div class="book-form b2">
+                    <h3 class="cat-w3l">Sách của bạn</h3>
+                    <div class="agile-form">
+                        <div class="clear"></div>
+                        @foreach (var item in Model)
+                        {
+                            <div class="Book">
+                                <div class="images">
+                                    <img src="@item.Book.Image" />
+                                </div>
+                                <div class="Book-Name" data-id="@item.Book.ID">
+                                    <h3>@item.Book.Name</h3>
+                                </div>
+
+                                <div class="Name-Author">
+                                    <a href="#">@item.Book.Author</a>
+                                </div>
+                            </div>
+                            sum += (long)(item.Book.Price.GetValueOrDefault(0) * item.Quantity);
+                        }
+                        <div class="clear"> </div>
+                    </div>
+                    <div class="price-agile2"> @sum.ToString("N0") ₫  </div>
+                    <div class="price-agile">Tổng tiền:</div>
+                    @*
+                          <div class="social-icons">
+                            <h3>Contact with:</h3>
+                            <ul>
+                                <li><a href="/Login/LoginFacebook"><span class="icons"></span><span class="text">Facebook</span></a></li>
+                            </ul>
+                        </div>
+                    *@
+
+                </div>
+            </div>
+            <div class="w3l_about_bottom_right two">
+                <div class="book-form">
+                    <h2 class="tittle">Thông tin khách hàng</h2>
+                    @*<form action="#" method="post" class="creditly-card-form agileinfo_form">*@
+                    @using (Html.BeginForm("Payment", "Cart", FormMethod.Post))
+                    {
+                        <section class="creditly-wrapper wthree, w3_agileits_wrapper">
+                            <div class="form-date-w3-agileits">
+                                <label> Họ và tên</label>
+                                <input type="text" name="name" placeholder="Your Name" required="">
+                            </div>
+                            <div class="form-date-w3-agileits">
+                                <label>Email :</label>
+                                <input type="email" name="email" placeholder="Your Email" required="">
+                            </div>
+                            <div class="form-date-w3-agileits">
+                                <label class="control-label">Số điện thoại</label>
+                                <input class="number credit-card-number form-control" type="text" name="mobile"
+                                       inputmode="numeric" autocomplete="cc-number" autocompletetype="cc-number" x-autocompletetype="cc-number"
+                                       placeholder="&#149;&#149;&#149;&#149; &#149;&#149;&#149;&#149; &#149;&#149;&#149;">
+
+                            </div>
+                            <div class="form-date-w3-agileits">
+                                <label> Địa chỉ giao hàng:</label>
+                                <input type="text" name="address" placeholder="Your Address">
+                            </div>
+
+                            <div class="make wow shake">
+                                <input type="submit" name="submit" value="Thanh toán" id="End-Payment">
+                            </div>
+                        </section>
+                    }
+
+
+
+                    @*</form>*@
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>

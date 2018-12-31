@@ -1,0 +1,282 @@
+﻿<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+@{ 
+    var session = (Model.EF.User)Session[BookShop.Controllers.LoginController.userSession];
+}
+<html>
+<head>
+    <title>Book Depository</title>
+    <link href="~/assets/Client/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <meta name="keywords" content="Mobilestore iphone web template, Android web template, Smartphone web template, free webdesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design" />
+
+    <link href='//fonts.googleapis.com/css?family=Londrina+Solid|Coda+Caption:800|Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="~/assets/Client/css/responsiveslides.css">
+    <link href="~/Assets/Client/css/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Assets/Client/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Assets/Client/css/bootstrap.css" rel="stylesheet" />
+    <!--Tìm kiếm-->
+    <link href="~/Assets/Client/css/jquery-ui.css" rel="stylesheet" />
+
+
+    <link href="~/Assets/Client/css/Detail.css" rel="stylesheet" />
+    <link href="~/Assets/Client/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet"/> @* Icon xinh xinh*@
+    <link href="~/Assets/Client/css/Cart.css" rel="stylesheet" />
+    <link href="~/Assets/Client/css/UserCustom.css" rel="stylesheet" />
+  
+    <link href="~/Assets/Client/css/CartHome.css" rel="stylesheet" />
+    <link href="~/Assets/Client/css/Login.css" rel="stylesheet" />
+    <link href="~/Assets/Client/Payment/StylePayment.css" rel="stylesheet" />
+    <link href="~/Assets/Client/LoginHome/StyleLogin.css" rel="stylesheet" />
+
+    <!-- Owl Carousel Assets -->
+    <link href="~/Assets/Client/lib/awesome/css/font-awesome.css" rel="stylesheet" />
+    <link href="~/Assets/Client/lib/owlcarousel/owl.theme.css" rel="stylesheet" />
+    <link href="~/Assets/Client/lib/owlcarousel/owl.carousel.css" rel="stylesheet" />
+ 
+    <!---->
+    <script src="~/Assets/Client/js/jquery-3.2.1.min.js"></script>
+   
+    <script src="~/Assets/Client/js/bootstrap.min.js"></script>
+    
+    <!--Đăng ký,đăng nhập-->
+    <script src="~/Assets/Client/js/Controller/Login.js"></script>
+    <script src="~/Assets/Client/js/Controller/Register.js"></script>
+
+    <script src="~/assets/Client/js/jquery.min.js"></script>
+    <script src="~/assets/Client/js/responsiveslides.min.js"></script>
+
+ 
+    <script>
+        // You can also use "$(window).load(function() {"
+        $(function () {
+
+            // Slideshow 1
+            $("#slider1").responsiveSlides({
+                maxwidth: 1600,
+                speed: 600
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="wrap">
+        <!----start-Header---->
+        <div class="header">
+            <div class="search-bar">
+                <form action="/tim-kiem" method="get">
+                    <input type="text" name="keyword" id="txtKeyword" placeholder="Gõ từ khóa"><input type="submit" value="Tìm kiếm" />
+                </form>
+            </div>
+            <div class="clear"> </div>
+            <div class="header-top-nav">
+                @if (session != null)
+                {
+                    <div class="Login">
+                        <div class="TextLable" title="@session.Name">
+                            <a>
+                                <span class="glyphicon glyphicon-log-in" style="height:100px;"></span>@session.Name
+                            </a>
+                        </div>
+                        <div class="display-Text" style="height:80px; width:190px;">
+                            <div class="buttom">
+                                <div>
+                                    <a href="/Cart" class="YourCart" style="margin-left:25px;"><i class="glyphicon glyphicon-shopping-cart"></i>Giỏ hàng của tôi</a>
+                                </div>
+                                <div>
+                                    <a href="/Dang-xuat" class="YourCart" style="margin-left:25px;"><i class="glyphicon glyphicon-log-out"></i>Đăng xuất</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+                else
+                {
+                    <div class="Login">
+                        <div class="TextLable" title="Đăng nhập">
+                            <a>
+                                <span class="glyphicon glyphicon-log-in" style="height:100px;"></span>Đăng nhập
+                            </a>
+                        </div>
+                        <div class="display-Text">
+                            <div class="buttom">
+
+                                <div>
+                                    <a class="btn_login" href="/Dang-nhap" style="margin-left:15px;">Đăng nhập</a>
+                                </div>
+                                <div class="loginlink" style="margin-left:15px;">
+                                    Khách hàng mới?
+                                    <a href="/Dang-ky">Tạo tài khoản</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+
+            </div>
+            <div class="clear"> </div>
+        @*  @{Html.RenderAction("TopMenu", "Home");} *@
+            @{ Html.RenderAction("TopMenu", "Home");}
+    
+        </div>
+    </div>
+    <div class="clear"> </div>
+    <div class="top-header" style="padding:0" >
+        <div class="wrap">
+            <!----start-logo---->
+            <div class="logo">
+                <a href="/"><img src="~/Assets/Client/images/logo.png" title="logo" style="width:150px;height:60px"/></a>
+            </div>
+            <!----end-logo---->
+            <!----start-top-nav---->
+            @{Html.RenderAction("MainMenu", "Home");}
+
+        </div>
+    </div>
+    <!----End-top-nav---->
+    <!----End-Header---->
+    <!--start-image-slider---->
+    @if (TempData["AlertMessage"] != null)
+    {
+        <div id="AlertBox" class="alert @TempData["AlertType"] hide" style="text-align:center;">
+            @TempData["AlertMessage"]
+        </div>
+    }
+
+
+    @RenderBody()
+    <div class="footer">
+        @{ Html.RenderPartial("Footer");}
+       
+    </div>
+    @RenderSection("cartSection", required: false)
+
+    @RenderSection("Login", required: false)
+
+
+
+    <script>
+        $(document).ready(function () {
+            $("#slider-tintuc").owlCarousel({
+                autoPlay: 3000,
+                navigation: true,
+                slideSpeed: 300,
+                paginationSpeed: 400,
+                singleItem: true
+            });
+            $("#spmoi").owlCarousel({
+
+             
+                autoPlay: 3000,
+                // items : 4,
+                //  itemsDesktop : [1199,3],
+                //  itemsDesktopSmall : [979,3],
+                //  itemsMobile : [768,2]
+                itemsCustom: [
+                    [0, 2],
+                    [600, 3],
+                    [1200, 4],
+                ],
+            });
+            $("#spsapphathanh").owlCarousel({
+
+
+                autoPlay: 3000,
+                // items : 4,
+                //  itemsDesktop : [1199,3],
+                //  itemsDesktopSmall : [979,3],
+                //  itemsMobile : [768,2]
+                itemsCustom: [
+                    [0, 2],
+                    [600, 3],
+                    [1200, 4],
+                ],
+            });
+
+            $("#spbanchay").owlCarousel({
+
+
+                autoPlay: 3000,
+                // items : 4,
+                //  itemsDesktop : [1199,3],
+                //  itemsDesktopSmall : [979,3],
+                //  itemsMobile : [768,2]
+                itemsCustom: [
+                    [0, 2],
+                    [600, 3],
+                    [1200, 4],
+                ],
+            });
+
+        });
+        $('#AlertBox').removeClass('hide');
+        $('#AlertBox').delay(1000).slideUp(1000);
+        $(document).ready(function () {
+
+            //Khi bàn phím được nhấn và thả ra thì sẽ chạy phương thức này
+          $("#FormRegister").validate({
+                rules: {
+                email: {
+                    required: true,
+                       email: true
+                   },
+                
+                pass: {
+                        required: true,
+                        minlength: 5
+                    },
+                confirmPass:{
+                        required: true,
+                        minlength: 5,
+                        equalTo: "#pass"
+
+                    },
+                    name: "required"
+                },
+                messages: {
+                     email: {
+                         required: "Email không được bỏ trống",
+                         email:" Email không đúng định dạng"
+                    },
+                 
+                     pass: {
+                        required: "Vui lòng nhập mật khẩu",
+                        minlength: "Mật khẩu phải từ 5 ký tự trở lên"
+                    },
+                     confirmPass: {
+                        required: "Vui lòng nhập mật khẩu",
+                        minlength: "Vui lòng nhập ít nhất 5 ký tự",
+                        equalTo:"Mật khẩu không trùng"
+
+                    },
+                    name:"Vui lòng nhập họ tên"
+
+                }
+            });
+        });
+
+
+    </script>
+
+  
+    <!--Tìm kiếm-->
+    
+    
+
+
+    
+    <!-- Validated-->
+     
+
+    <script src="~/Assets/Client/js/Search/jquery-ui.js"></script>
+    <script src="~/Assets/Client/js/Controller/baseController.js"></script>
+    <script src="~/Assets/Client/js/Controller/jquery.validate.min.js"></script>
+   
+    <script src="~/Assets/Client/lib/owlcarousel/owl.carousel.js"></script>
+</body>
+</html>
